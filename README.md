@@ -20,4 +20,9 @@ Repaso general de dudas, procesos y conceptos de la clase del día 22 de abril
 
 ### NUEVO INTENTO
 ##### Abrir imagen agregada y copiar el nombre para luego agregarlo en los parentesis redondos.  
-![](irina-iriser-2Y4dE8sdhlc-unsplash.jpg)
+![](irina-iriser-2Y4dE8sdhlc-unsplash.jpg)  
+
+[Autora de la imagen (Irina Iriser)] (https://unsplash.com/photos/2Y4dE8sdhlc)  
+
+# Sitio Web con imagenes Gratis  
+[Free_Images] ()
