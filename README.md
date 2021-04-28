@@ -15,6 +15,9 @@ Repaso general de dudas, procesos y conceptos de la clase del día 22 de abril
 
 ![benimaru](https://github.com/fernando1998-g/Repaso_clase_22_abril/blob/main/BENIMARU%20sin%20fondo.png)  
 
+###### probando de nuevo el comando
+![Benimaru 2](BENIMARU sin fondo.png)
+
 # Enlace para encontrar la imagen 
 [Benimaru](https://www.pinterest.ie/pin/692287773948550753/)
 
