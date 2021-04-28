@@ -2,7 +2,10 @@
 Repaso general de dudas, procesos y conceptos de la clase del día 22 de abril  
 
 ### Comando para agregar imagenes ![]()
-![Rimuru](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken-es/images/5/54/17e4ed7a276951fca7ebd8c9527bd0b7.jpg/revision/latest?cb=20190424192858&path-prefix=es)
+![Rimuru](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken-es/images/5/54/17e4ed7a276951fca7ebd8c9527bd0b7.jpg/revision/latest?cb=20190424192858&path-prefix=es)  
+
+#Enlace a sitio web:  
+[Tensei_Shitara_Slime_Datta_Ken](https://es.wikipedia.org/wiki/Tensei_Shitara_Slime_Datta_Ken)
 
 ### Cambiando tamaño con comando HTML img
 <img src="https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken-es/images/5/54/17e4ed7a276951fca7ebd8c9527bd0b7.jpg/revision/latest?cb=20190424192858&path-prefix=es" alt="RIMURU" width="100">
